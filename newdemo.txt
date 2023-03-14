@@ -2,3 +2,4 @@ Add line1
 s
 Rc lh rc
 Adding changes from local repository
+Adding 2nd line from local repository
